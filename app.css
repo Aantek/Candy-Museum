@@ -2,10 +2,12 @@ body{
   background-color: #F6D7D7;
   font-family: 'Josefin Sans', sans-serif;
   height: 100%;
+  width: 100%;
 }
 html{
   height: 100%;
   width: 100%;
+  overflow-x: hidden;
 }
 li a{
   font-weight: 500;
@@ -35,6 +37,9 @@ h2{
   padding: 0;
  
 }
+div.col-xl-6.col-lg-6.col-md-6.col-sm-12{
+  padding: 0;
+}
 .loli{
 height: 40%;
 width: 40%;
@@ -44,7 +49,7 @@ background: rgb(222,192,222);
 transition: background 500ms;
 }
 p{
-font-size: 32px;
+font-size: 26px;
 }
 @keyframes bounce {
   0%, 20%, 60%, 100% {
@@ -68,12 +73,12 @@ font-size: 32px;
       display: none;
   }
   p{
-    font-size: 18px;
+    font-size: 12px;
   }
 }
 @media (max-width: 768px){
 p{
-  font-size: 32px;
+  font-size: 26px;
   margin: 20px 15px;
 }  
 .loli{
