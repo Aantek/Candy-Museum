@@ -32,9 +32,9 @@ h2{
   font-size: 48px;
 }
 .photo1{
-  width: auto;
-  height: auto;
-  
+  width: 100%;
+  height: 100%;
+  padding: 0;
  
 }
 div.col-xl-6.col-lg-6.col-md-6.col-sm-12{
