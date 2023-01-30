@@ -1,1 +1,1 @@
-Candy Museum is a basic landing page coded in bootstrap grid
+Candy Museum is a basic landing page build in bootstrap
